@@ -1,5 +1,5 @@
-# battlefield-functions
-js script - battlefield differents functions
+# battlefield-functions -
+# js script - battlefield differents functions -
  Nous voulons créer un jeu faisant combattre aléatoirement 4 personnages.
  Chaque personnage possède :
  ● unnom;
